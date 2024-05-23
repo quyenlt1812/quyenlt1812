@@ -3,9 +3,6 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/quyenlt1812/" target="_blank">
-    <img src="https://img.shields.io/badge/Linkedin-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
   <img src="https://komarev.com/ghpvc/?username=quyenlt&style=flat-square&color=blue" alt=""/>
 </div>
 
