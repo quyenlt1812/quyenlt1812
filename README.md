@@ -110,10 +110,16 @@ I combine technical leadership with hands-on work in **React, Next.js and TypeSc
 ### 📊 GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=quyenlt1812&show_icons=true&theme=react&hide_border=true&count_private=true" alt="GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quyenlt1812&layout=compact&theme=react&hide_border=true&count_private=true" alt="Top languages" height="165"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=quyenlt1812&theme=github_dark"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=quyenlt1812&theme=github" alt="GitHub stats" height="190"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-eight.vercel.app?user=quyenlt1812&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
+    <img src="https://github-readme-streak-stats-eight.vercel.app?user=quyenlt1812&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub streak" height="190"/>
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=quyenlt1812&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub streak"/>
+  <img src="https://ghchart.rshah.org/quyenlt1812" alt="Contribution graph" width="100%"/>
 </p>
